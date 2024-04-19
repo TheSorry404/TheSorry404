@@ -1,7 +1,8 @@
-### 你好哇 👋
----
+# 你好哇 👋
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TheSorry404&show_icons=true&locale=en&layout=compact" alt="TheSorry404" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSorry404&" alt="TheSorry404" /></p>
+
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheSorry404)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--

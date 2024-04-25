@@ -3,12 +3,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSorry404&" alt="TheSorry404" /></p>
 水呀水Commit。
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheSorry404)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
 **TheSorry404/TheSorry404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TheSorry404)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

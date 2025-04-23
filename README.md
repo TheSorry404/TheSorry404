@@ -4,4 +4,4 @@
 ## Roadmap:
 - [ ] Seamas - A Blog / Personal Tools Combines Calendar and Recording etc.
 - [ ] Hotelm
-- [ ] Learn FFMpeg, Nodejs etc.
+- [ ] Learn FFmpeg, Nodejs etc.

@@ -5,3 +5,4 @@
 - [ ] Seamas - A Blog / Personal Tools Combines Calendar and Recording etc.
 - [ ] Hotelm
 - [ ] Learn FFmpeg, Nodejs etc.
+- [ ] There must be a way better than recently widely used AI implementation method...

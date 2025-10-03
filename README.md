@@ -3,6 +3,8 @@
 
 ## Roadmap:
 - [ ] Seamas - A Blog / Personal Tools Combines Calendar and Recording etc.
-- [ ] Hotelm
-- [ ] Learn FFmpeg, Nodejs etc.
+- [ ] Meomo, a memo web app
+- [ ] Learn Go Backend developing and maintaining
+- [ ] Learn FFmpeg usage, Node.js etc.
 - [ ] There must be a way better than recently widely used AI implementation method...
+- [ ] ~~Hotelm~~

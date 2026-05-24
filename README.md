@@ -2,9 +2,10 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSorry404&" alt="TheSorry404" /></p> -->
 
 ## Roadmap:
-- [ ] Seamas - A Blog / Personal Tools Combines Calendar and Recording etc.
+<!-- - [ ] Seamas - A Blog / Personal Tools Combines Calendar and Recording etc. -->
 - [ ] Meomo, a memo web app
-- [ ] Learn Go Backend developing and maintaining
+- [x] Learn Go Backend developing and maintaining
 - [ ] Learn FFmpeg usage, Node.js etc.
 - [ ] There must be a way better than recently widely used AI implementation method...
-- [ ] ~~Hotelm~~
+- [ ] Transformer-based LLM developing deepin
+<!-- - [ ] ~~Hotelm~~ -->
